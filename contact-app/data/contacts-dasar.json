@@ -1,0 +1,6 @@
+[
+  { "name": "Rendi", "phoneNumber": "08123456789" },
+  { "name": "Anjuma", "phoneNumber": "08987654321" },
+  { "name": "Sagala", "phoneNumber": "17081945" },
+  { "name": "Rendi Anjuma Sagala", "phoneNumber": "123456789" }
+]
